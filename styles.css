@@ -77,6 +77,6 @@ p {
   padding: 2.4rem 1.6rem;
 }
 
-.container > *:not(:last-child) {
+section.container > *:not(:last-child) {
   margin-bottom: 1.6rem;
 }
